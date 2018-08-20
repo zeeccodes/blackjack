@@ -1,3 +1,4 @@
+
 from player import Player
 from deck import Deck
 import sys
@@ -20,19 +21,6 @@ class Game:
             print("1.Deal")
             print("2.Exit")
             end = input("What do you want to do?")
-            if(end==1):
-                
-            else:
-                end=0
             
-
-
-        
-
-
-        
-
-
-
 
 Game()

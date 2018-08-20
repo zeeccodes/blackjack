@@ -1,5 +1,4 @@
 
-
 class Card:
 
     def __init__(self, suit, faceValue):
@@ -15,4 +14,3 @@ class Card:
 
     def __repr__(self):
         return self.faceValue + ' of ' + self.suit + '\n'
-    
